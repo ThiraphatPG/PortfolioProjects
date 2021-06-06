@@ -1,3 +1,4 @@
+--The data is collected from https://ourworldindata.org/coronavirus
 Select *
 From PortfolioProjects..CovidDeaths
 Where continent is not null
