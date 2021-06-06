@@ -1,6 +1,6 @@
-# library package that will be used to extract and manipulate data
 #The data global of population age 65 and above is collected from https://data.worldbank.org and 
 #the data of population in Thailand is collected from http://www.nso.go.th/
+# library package that will be used to extract and manipulate datalibrary(tidyverse)
 library(tidyverse)
 
 library(xlsx)
